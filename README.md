@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ashish-yadav07/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Kfi2QjOXAlN7BYsdzgcjSce4zZvDTGH9/view?usp=drive_link" target="_blank" >
+  <a href="https://drive.google.com/file/d/1rHMZlKu3djomZW0-AYVuVwdd__X_h_1u/view?usp=sharing" target="_blank" >
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
