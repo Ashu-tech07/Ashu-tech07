@@ -74,30 +74,28 @@
 </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Flipkart Clone</h3>
+      <h3 align="center">My Dashboard</h3>
         <br />
-      <a target="_blank" href="https://ashish-ecommerce-web.netlify.app/">
-            <img src="https://github.com/Ashu-tech07/Ashu-tech07/blob/main/assets/flipkartClone.png" width="100%"  alt="flipkart clone"/>
+      <a target="_blank" href="https://ashish-dashboard.netlify.app/">
+            <img src="https://github.com/Ashu-tech07/Ashu-tech07/blob/main/assets/my-dashboard.png" width="100%"  alt="my dashboard"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/Ashu-tech07/flipkart-clone" target="_blank">
+  <a href="https://github.com/Ashu-tech07/my-dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-  <a href="https://ashish-ecommerce-web.netlify.app/" target="_blank">
+  <a href="https://ashish-dashboard.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>  Built a Flipkart clone website using React.js, Material UI, and Javascript.
+        <p>  Built a Dashboard using React.js, Synfusion, and Javascript.
         <br/>
         Features:
         
   <ul>
-<li>Signup and email verification using Firebase auth API. </li>
-<li>Add item to cart and wishlist place order.  </li>
-<li> User-specific using Firebase authentication and database. </li>
-<li> Carousel showing various products. </li>
+<li>Build a responsive React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More </li>
+<li> Can change theme and mode. </li>
 </ul>
 </p>
     </td>
@@ -189,7 +187,40 @@
 </ul>
         </p>
     </td>
-    <td width="50%" valign="top">
+
+  <td width="50%" valign="top">
+      <h3 align="center">Flipkart Clone</h3>
+        <br />
+      <a target="_blank" href="https://ashish-ecommerce-web.netlify.app/">
+            <img src="https://github.com/Ashu-tech07/Ashu-tech07/blob/main/assets/flipkartClone.png" width="100%"  alt="flipkart clone"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/Ashu-tech07/flipkart-clone" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <a href="https://ashish-ecommerce-web.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>  Built a Flipkart clone website using React.js, Material UI, and Javascript.
+        <br/>
+        Features:
+        
+  <ul>
+<li>Signup and email verification using Firebase auth API. </li>
+<li>Add item to cart and wishlist place order.  </li>
+<li> User-specific using Firebase authentication and database. </li>
+<li> Carousel showing various products. </li>
+</ul>
+</p>
+    </td>
+    
+   
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
       <h3 align="center">Words Conter</h3>
         <br />
         <a target="_blank" href="https://ashish-react-training.netlify.app/">
@@ -214,8 +245,6 @@
 <li>Light/Dark Mode available. </li>
 </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pizza Ghar</h3>
       <br />
@@ -243,7 +272,10 @@
 </ul>
         </p>
     </td>
-    <td width="50%" valign="top">
+   
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
       <h3 align="center">Sample website</h3>
         <br />
         <a target="_blank" href="https://sample-wesite-ashish.netlify.app/">
