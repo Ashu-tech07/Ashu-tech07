@@ -220,7 +220,31 @@
    
   </tr>
   <tr>
-     <td width="50%" valign="top">
+  <td width="50%" valign="top">
+      <h3 align="center">Income Tax Calculator</h3>
+        <br />
+        <a target="_blank" href="https://ashish-tax-calculator.netlify.app/">
+          <img src="https://github.com/Ashu-tech07/Ashu-tech07/blob/main/assets/tax-calculator.png" width="100%" alt="words counter"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Ashu-tech07/tax-calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ashish-tax-calculator.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Income Tax Calculator</p>
+    </br>
+    Features:
+     <ul>
+       <li>Want to know? How much taxes do you have to pay under New Tax Regime-2025?</li>
+<li>Use this app to calculate taxes.</li>
+</ul>
+    </td>
+  <td width="50%" valign="top">
       <h3 align="center">Words Conter</h3>
         <br />
         <a target="_blank" href="https://ashish-react-training.netlify.app/">
@@ -232,7 +256,7 @@
   <a href="https://github.com/Ashu-tech07/React-training" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://ashish-video-streaming-gpt.netlify.app/" target="_blank">
+  <a href="https://ashish-react-training.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -245,6 +269,9 @@
 <li>Light/Dark Mode available. </li>
 </ul>
     </td>
+     
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pizza Ghar</h3>
       <br />
@@ -273,8 +300,6 @@
         </p>
     </td>
    
-  </tr>
-  <tr>
      <td width="50%" valign="top">
       <h3 align="center">Sample website</h3>
         <br />
