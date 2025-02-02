@@ -296,7 +296,6 @@
 </ul>
         </p>
     </td>
-
      <td width="50%" valign="top">
       <h3 align="center">Sample website</h3>
         <br />
