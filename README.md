@@ -17,7 +17,7 @@
   </a>
 </p>
 
-👨‍💻 I've worked as a Software Developer for the last three years. 
+👨‍💻 I've worked as a Software Developer for the last three years.
 
 🏫 I’m currently learning **MERN Full Stack Development**
 
@@ -29,9 +29,9 @@
 
 💗 Love to talk about **Research and Innovation!**
 
-📫 Feel free to reach out if you have any opportunity that fits my background: **aybhu10@gmail.com**
+📫 Feel free to reach out if you have any opportunity that fits my background: **<aybhu10@gmail.com>**
 
-## 🔰 Let's Connect:
+## 🔰 Let's Connect
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-yadav7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aybhu10@gmail.com)
@@ -40,7 +40,6 @@
 
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2" style="overflow: hidden;" >
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">YouTube Clone</h3>
@@ -62,7 +61,7 @@
        I have created a YouTube clone using React.js, Tailwind CSS, Redux Toolkit, React-router, and YouTube APIs.
         <br/>
         Features:
-        
+
   <ul>
 <li>Used YouTube APIs to fetch live data from the server. </li>
 <li>Used debounding in search bar section to call suggestion apis.  </li>
@@ -84,7 +83,7 @@
    <br>
   <a href="https://github.com/Ashu-tech07/my-dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
+  </a>
   <a href="https://ashish-dashboard.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
@@ -92,7 +91,7 @@
         <p>  Built a Dashboard using React.js, Synfusion, and Javascript.
         <br/>
         Features:
-        
+
   <ul>
 <li>Build a responsive React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More </li>
 <li> Can change theme and mode. </li>
@@ -199,7 +198,7 @@
    <br>
   <a href="https://github.com/Ashu-tech07/flipkart-clone" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
+  </a>
   <a href="https://ashish-ecommerce-web.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
@@ -207,7 +206,7 @@
         <p>  Built a Flipkart clone website using React.js, Material UI, and Javascript.
         <br/>
         Features:
-        
+
   <ul>
 <li>Signup and email verification using Firebase auth API. </li>
 <li>Add item to cart and wishlist place order.  </li>
@@ -216,8 +215,7 @@
 </ul>
 </p>
     </td>
-    
-   
+
   </tr>
   <tr>
   <td width="50%" valign="top">
@@ -245,7 +243,7 @@
 </ul>
     </td>
   <td width="50%" valign="top">
-      <h3 align="center">Words Conter</h3>
+      <h3 align="center">Words Counter</h3>
         <br />
         <a target="_blank" href="https://ashish-react-training.netlify.app/">
           <img src="https://github.com/Ashu-tech07/Ashu-tech07/blob/main/assets/words-count.png" width="100%" alt="words counter"/>
@@ -269,7 +267,6 @@
 <li>Light/Dark Mode available. </li>
 </ul>
     </td>
-     
     </tr>
     <tr>
     <td width="50%" valign="top">
@@ -299,7 +296,7 @@
 </ul>
         </p>
     </td>
-   
+
      <td width="50%" valign="top">
       <h3 align="center">Sample website</h3>
         <br />
@@ -329,7 +326,7 @@
 
 <br/>
 
-## ♨ Technologies and Tools:
+## ♨ Technologies and Tools
 
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -358,5 +355,3 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%230A0FFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![SonatQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-
