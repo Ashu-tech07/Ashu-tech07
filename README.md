@@ -12,14 +12,14 @@
   <a href="https://www.linkedin.com/in/ashish-yadav07/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com" target="_blank" >
+  <a href="https://drive.google.com/file/d/1zOO3U_hTnY1vhLwEU04nr7n7YIoHbMGP/view?usp=drivesdk" target="_blank" >
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
 👨‍💻 I've worked as a Software Developer for the last three years.
 
-🏫 I’m currently learning **MERN Full Stack Development**
+🏫 I’m currently working in **MERN Full Stack Development**
 
 🔎 I’m actively looking to contribute to a **Good Firm** and **Open source Project**
 
